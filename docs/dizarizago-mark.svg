@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Dizarizago</title>
+  <defs>
+    <linearGradient id="accent" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c7ff3f"/>
+      <stop offset="1" stop-color="#2358ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#0b0d0c"/>
+  <path d="M13 16h15c11.4 0 19 6.2 19 16s-7.6 16-19 16H13V16Zm14.4 23.6c6.6 0 10.7-2.7 10.7-7.6s-4.1-7.6-10.7-7.6h-5.6v15.2h5.6Z" fill="#f5f5ef"/>
+  <path d="M38 16h14v7.2L41.8 40H52v8H37V40.8L47.2 24H38v-8Z" fill="url(#accent)"/>
+  <circle cx="52" cy="12" r="4" fill="#c7ff3f"/>
+</svg>
