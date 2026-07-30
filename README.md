@@ -65,9 +65,11 @@ Mizari-Tasklist/
 
 ## Контакты
 
-- Telegram: [@ss_dizarizago_ss](https://t.me/ss_dizarizago_ss)
-- VK: [vk.ru/ssdizarizago](https://vk.ru/ssdizarizago)
-- GitHub: [mizioooz](https://github.com/mizioooz)
+<div align="center">
+  <a href="https://github.com/mizioooz"><img src="https://img.shields.io/static/v1?label=GitHub&amp;message=mizioooz&amp;color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=4A4A4A" alt="GitHub mizioooz"></a>
+  <a href="https://t.me/ss_dizarizago_ss"><img src="https://img.shields.io/static/v1?label=Telegram&amp;message=%40ss%5Fdizarizago%5Fss&amp;color=26A5E4&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white&amp;labelColor=4A4A4A" alt="Telegram @ss_dizarizago_ss"></a>
+  <a href="https://vk.ru/ssdizarizago"><img src="https://img.shields.io/static/v1?label=VK&amp;message=ssdizarizago&amp;color=0077FF&amp;style=for-the-badge&amp;logo=vk&amp;logoColor=white&amp;labelColor=4A4A4A" alt="VK ssdizarizago"></a>
+</div>
 
 ---
 
